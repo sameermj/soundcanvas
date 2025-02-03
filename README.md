@@ -4,7 +4,7 @@ soundcanvas/
 │   ├── routes/
 │   ├── config/
 │   ├── server.js
-│   └── package.json
+│  . └── package.json
 ├── frontend/
 │   ├── public/
 │   ├── src/
